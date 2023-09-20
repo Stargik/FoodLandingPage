@@ -1,0 +1,26 @@
+.custom-orange{
+    background-color: #fd7e14;
+}
+.top-banner{
+    background-image: url("/images/fresh-salad.jpg");
+    background-position-x: right;
+    background-size: cover;
+    min-height: 80vh;
+    padding-top: 10vh;
+}
+.top-banner-button{
+    background-color: #fd7e14;
+}
+.dishes-container{
+    padding-top: 20vh;
+}
+#carouselDishesDark{
+    max-height: 400px;
+    overflow: hidden;
+}
+.receipes-container{
+    padding-top: 5vh;
+}
+.book-tabs .nav-link{
+    color: black;
+}
