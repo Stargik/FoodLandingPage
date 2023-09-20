@@ -3,7 +3,7 @@
 }
 .top-banner{
     background-image: url("/images/fresh-salad.jpg");
-    background-position-x: right;
+    background-position-x: left;
     background-size: cover;
     min-height: 80vh;
     padding-top: 10vh;
