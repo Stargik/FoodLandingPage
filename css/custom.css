@@ -2,7 +2,7 @@
     background-color: #fd7e14;
 }
 .top-banner{
-    background-image: url("/images/fresh-salad.jpg");
+    background-image: url("../images/fresh-salad.jpg");
     background-position-x: left;
     background-size: cover;
     min-height: 80vh;
